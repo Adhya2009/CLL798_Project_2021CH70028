@@ -86,7 +86,7 @@ This results in:
 
 ## ▶️ How to Run
 
-python forest_fire.py
+python CLL798_Project.py
 
 ---
 
